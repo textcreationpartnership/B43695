@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A prayer to God, which the Christian soul may make every day, thereby to declare the sentiments which she desires to have at the point of death wherein are discover'd the acts of all the highest virtues, and especially the divine virtue of contrition, and a perfect love of God.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43695</idno><idno type="EEBO-CITATION">625259210</idno>
+  <idno type="VID">211310</idno>
+  <idno type="EEBO-PROQUEST">2264198674</idno>
+  
+            <idno type="OCLC"> 625259210</idno>
+            <idno type="OCLC">ocn 625259210</idno>
+            <idno type="STC">Wing P3195aA</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43695)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 211310)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2969:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A prayer to God, which the Christian soul may make every day, thereby to declare the sentiments which she desires to have at the point of death wherein are discover'd the acts of all the highest virtues, and especially the divine virtue of contrition, and a perfect love of God.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Sam. Keble, at the Turks-head in Fleetstreet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in: Christ Church (University of Oxford). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Christian life --  Early works to 1800.</term>
+               <term type="topical_term">Prayers --  Early works to 1800.</term>
+               <term type="topical_term">Repentance --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="prayer">
+            <pb facs="tcp:211310:1"/>
+            <pb facs="tcp:211310:2"/>
+            <pb n="1" facs="tcp:211310:2"/>
+            <head>A Prayer to God, <hi>Which the Christian Soul may make every day, there<g ref="char:EOLhyphen"/>by to declare the Senti<g ref="char:EOLhyphen"/>ments which she desires to have at the point of Death. Wherein are discover'd the Acts of all the highest Vir<g ref="char:EOLhyphen"/>tues, and especially the Di<g ref="char:EOLhyphen"/>vine Virtue of Contrition, and a perfect Love of God.</hi>
+            </head>
+            <p>O My Lord, and my God, in that un<g ref="char:EOLhyphen"/>certainty in which thou art pleased that I should live, as well in relation to the time and place, as manner of my Death, I come to adore the Orders of
+<pb n="2" facs="tcp:211310:3"/>thy Divine Providence, for what thou hast appointed from all Eternity; and not knowing what the Sentiments of my Soul may be at that Hour, I do at present, that which I desire should be done then, and I humbly pray thee to accept and ratifie against that time, what I declare and protest at present.</p>
+            <p>I give thee thanks, O my Lord, and my God, at this Instant, instead of the last moment of my Life, when possibly being deprived both of Speech and Reason, I may not be able either to speak or think of thee. I thank thee, First, for giving me a Birth, and that I was not left without a Being. Secondly, That thou wert pleased that I should be Born in a Place among Christians and in a time when the Light of the Gospel is shining upon us, where as thou mightst have caused my Na<g ref="char:EOLhyphen"/>tivity to have happened in an Age of darkness, and in a Country of Infidels. 3dly. That thou hast regenerated me by Baptism, when thou mightst let me have died in my Mothers Womb, as so many others have, before they could receive it.</p>
+            <pb n="3" facs="tcp:211310:3"/>
+            <p>I adore thee, O my God, as the Ori<g ref="char:EOLhyphen"/>ginal of my Life in Nature, as the Ori<g ref="char:EOLhyphen"/>ginal of my Generation by Grace, as the last end of my Soul, and as my last Fe<g ref="char:EOLhyphen"/>licity in Glory! Thou art the first Veri<g ref="char:EOLhyphen"/>ty, and I firmly believe what thou hast said: Thou are the Sovereign Fi<g ref="char:EOLhyphen"/>delity, and I incessantly hope what thou hast promised: Thou art the Supreme Goodness, and I love only, and would love only that which thou art.</p>
+            <p>'Tis thou, O my God, Father, Son, and Holy Ghost, One in Essence, and Three in Persons, who hast Created me by the Effect of thy Power, who hast Redeemed me by the Excess of thy Bounty, who hast Sanctifyed me by the Infusion of thy Grace, who hast guided me by the Conduct of thy Pro<g ref="char:EOLhyphen"/>vidence, and who hast Ordained me to the participation of thy Glory.</p>
+            <p>For this end thou hast admitted me into the Bosome of the Church thy Spouse, there thou hast illuminated my Soul with thy purest Lights, there thou hast upheld me with thy most Holy Graces, there thou hast touched me with
+<pb n="4" facs="tcp:211310:4"/>thy most tender Motions, there thou hast prepared for me thy most Vene<g ref="char:EOLhyphen"/>rable Sacraments, there thou hast Fed me with the Sacred Body of <hi>Jesus Christ,</hi> thy only Son my Saviour, and there thou hast as often showr'd down upon my Soul the Gifts and Graces, of thy Divine Spirit.</p>
+            <p>O what Love! O what Benefactions! O what Condescentions! O what Fa<g ref="char:EOLhyphen"/>vour! O what Graces! O what Mer<g ref="char:EOLhyphen"/>cies have been vouchsafed to this poor Soul! That in return for so many Bles<g ref="char:EOLhyphen"/>sings, (of which thou only knowest the number and the value) hath during the whole Course of its Life performed nothing but Impieties, Infidelities, In<g ref="char:EOLhyphen"/>gratitude, Iniquities and Crimes sur<g ref="char:EOLhyphen"/>passing in Number the Hairs of my Head, and Days of my Life.</p>
+            <p>But, O my Lord God, the more shame belongs to me for having offended, the more Glory is due to thee for pardoning my Offences: And Sins without num<g ref="char:EOLhyphen"/>ber, like mine, require a Mercy with<g ref="char:EOLhyphen"/>out end, like thine.</p>
+            <pb n="5" facs="tcp:211310:4"/>
+            <p>And to such an Inexhaustible Mercy I approach, repenting for having so long offended thee, My Lord and my God, so lately known thee, and so little loved thee.</p>
+            <p>Were I never to enjoy more time then this moment, I would imploy it all in the Love of thee, O Sovereign Goodness! Because thou art what thou art, and because thou only dost merit the Love and Adoration of all thy Creatures.</p>
+            <p>'Tis for thy sake alone, O eternal Love, who art ever Lovely, and never sufficiently beloved, that I detest all the Sins of my Life; because they are contrary to thy adorable Sanctity. And I detest these Sins on the same mo<g ref="char:EOLhyphen"/>tive that my Lord <hi>Jesus Christ</hi> detested them at his Agony in the Garden, and on the same Motive, on which thou, O my God, Father, Son and Holy Ghost, One in Essence, and Three in Persons, doest detest them. And I humbly offer in Reparation of that Outrage and displea<g ref="char:EOLhyphen"/>sure, which mine Iniquities have done thee, the Love and Obedience of my
+<pb n="6" facs="tcp:211310:5"/>Blessed Saviour <hi>Jesus Christ</hi> to atone for, and supply the defects of mine.</p>
+            <p>In expiation of these Iniquities of my Life, I accept of Death, as a Traytor whom thou hast most justly Condem<g ref="char:EOLhyphen"/>ned to die; I accept the Destruction of this Body which has been the Founda<g ref="char:EOLhyphen"/>tion of so many Intemperances, and the Subject of so many Sins; I accept of the Destruction of my whole Being in Ho<g ref="char:EOLhyphen"/>mage to that Soveraign Dominion which thou hast over me; I accept of all Derelictions, all Bitterness of Spirit, all Anguishes, all Pains, all Temptations, and all Evils, (except only that of Sin and thy displeasure) as all the satisfa<g ref="char:EOLhyphen"/>ction which I can pay thy Adorable Majesty.</p>
+            <p>Not being able to do more, I beseech thee, O my Lord, and my God, to re<g ref="char:EOLhyphen"/>member that I am the Work of thy Hands the Purchase of thy Blood, the Conquest of thy Cross, the Wa<g ref="char:EOLhyphen"/>ges of thy Death, and the effect of thy Love. To thy Death I Unite mine, and to thy Love I Unite mine; protesting that I admit no sentiments
+<pb n="7" facs="tcp:211310:5"/>but those which are agreeable to the Faith of the Catholick Church, and I disclaim, O Lord, all hopes and de<g ref="char:EOLhyphen"/>pendance, but in thy Merits, Love and Goodness.</p>
+            <p>If ever any thing appears in my Acti<g ref="char:EOLhyphen"/>ons contrary to this, I disavow it, I renounce it. And I desire that the last Motion of my heart may be a Motion of Adoration to do thee Homage for my Being, since that very being belongs more to thee than to my self; O Father of Mercies and God of all Comforts, under whose Command are all the Powers of my Soul, make my Life to expire in an Act of Love, raised by a clear apprehension of thy Excellency and Goodness, and so vigorously exerted towards thee, the great and proper Ob<g ref="char:EOLhyphen"/>ject of Love, that being begun here it may continue to all Eternity.</p>
+            <p>It is true, O my God, that after all this my Fears are great, because my Crimes are so, and thy Judgments ve<g ref="char:EOLhyphen"/>ry terrible. But it is also true that not<g ref="char:EOLhyphen"/>withstanding all those Fears, yet my hope is still greater, since thou art Mer<g ref="char:EOLhyphen"/>ciful
+<pb n="8" facs="tcp:211310:6"/>and apt to pardon; thy Mercy is transcendently Great, and thou dost Pardon without measure; thy Mercy is Infinite, and thou dost Pardon without end; thou art all Mercy, and Mercy it self, and thou Pardonest all.</p>
+            <p>Full of this ravishing and most sweet Confidence which I have in thee, I hope to see thy Blessings in the Land of the Living, where thou art the Resurrection and the Life; and Ado<g ref="char:EOLhyphen"/>ring again thy Power that Created me, thy Goodness that Redeemed me, thy Wisdom which hath enlightned me, thy Providence which hath Go<g ref="char:EOLhyphen"/>verned me, thy Mercy which hath forgiven me so many Sins. I Adore also thy Justice; and I submit my self intirely to the time by thee appointed for my Judgment, with this Confi<g ref="char:EOLhyphen"/>dence and Trust, that thy Divine Goodness will not then cast me off, but will it self answer for me to thy Justice, and that I shall eternally sing of, and Celebrate, thy Mercies, World without end. <hi>Amen.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London:</hi> Printed for <hi>Sam. Keble,</hi> at the <hi>Turks-head</hi> in <hi>Fleetstreet.</hi> 1697.</p>
+            <pb facs="tcp:211310:6"/>
+         </div>
+      </back>
+   </text>
+</TEI>
